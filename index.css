@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: black;
+}
+.orange{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(green,yellow);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.blue{
+    color: brown;
+}
+.tomato{
+    color:tomato;
+}
+.c{
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+    height: 100%;
+    background-color: white;
+    float: left;
+}
+.heading{
+    text-align: center;
+}
+#full{
+    height:40%;
+    width: 20%;
+   
+    
+    
+}
+#fool{
+    height:40%;
+    width: 20%;  
+}
+#pull{
+    height:20%;
+    width: 20%;
+}
+.h{
+    color: teal;
+}
+.back{
+    background-color: tomato;
+}
