@@ -9,7 +9,7 @@ h2{
     font-size: 40px;
 }
 p{
-    color: black;
+    color: seagreen;
 }
 .orange{
     color: orange;
@@ -38,9 +38,9 @@ p{
     color:tomato;
 }
 .c{
-    box-shadow: 10px 10px 50px gray;
+    box-shadow: 5px 5px 20px gray;
     border-radius: 20px;
-    height: 100%;
+    height: 50%;
     background-color: white;
     float: left;
 }
@@ -50,9 +50,7 @@ p{
 #full{
     height:40%;
     width: 20%;
-   
-    
-    
+      
 }
 #fool{
     height:40%;
@@ -62,9 +60,29 @@ p{
     height:20%;
     width: 20%;
 }
-.h{
-    color: teal;
+.g{
+    width:50%;
+    font-size:70px;
+   
+    margin: 150px;
+
 }
+.rull{
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align: right;
+
+}
+
+
 .back{
     background-color: tomato;
 }
+#foot{
+    font-size:30px;
+    text-align:center;
+    background-color:indigo ;
+
+}
+    
