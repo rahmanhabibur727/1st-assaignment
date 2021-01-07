@@ -9,7 +9,13 @@ h2{
     font-size: 40px;
 }
 p{
-    color: seagreen;
+    color:rgb(36, 2, 70);
+}
+.pcolor{
+    background-color:rgb(214, 42, 71);
+    border:2px solid green;
+    border-radius:8px;
+    padding:10px;
 }
 .orange{
     color: orange;
@@ -44,6 +50,9 @@ p{
     background-color: white;
     float: left;
 }
+.c p{
+    color: darkblue;
+}
 .heading{
     text-align: center;
 }
@@ -77,12 +86,16 @@ p{
 
 
 .back{
-    background-color: tomato;
+    background-color: rgb(230, 42, 9);
 }
 #foot{
     font-size:30px;
     text-align:center;
-    background-color:indigo ;
+    background-color:brown
 
+
+}
+.ipic{
+    float: center;
 }
     
